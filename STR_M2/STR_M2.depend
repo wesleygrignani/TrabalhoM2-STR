@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1635352245 source:c:\users\pmsc\desktop\str_m2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	"sensor.h"
+
+1635338726 c:\users\pmsc\desktop\str_m2\sensor.h
+	<pthread.h>
+	<math.h>
+
+1635356793 source:c:\users\pmsc\desktop\str_m2\sensor.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	<unistd.h>
+
